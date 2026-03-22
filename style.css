@@ -1,0 +1,45 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/smooth-white-wave-background_52683-55288.jpg?w=2000);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+    font-family: cursive;
+    color: teal;
+    background-color: orange;
+    text-align: center;
+    padding: 15px;
+}
+h2 {
+    font-family: cursive;
+    color: orange;
+    background-color: teal;
+    text-align: center;
+    padding: 5px;
+
+  }
+p {
+    font-family: cursive;
+    color: rgb(0, 62, 88);
+    padding: 5px;
+}
+strong {
+  color: red;
+  font-weight: bold;
+}
+#datetime {
+  font-size: 12px;
+  color: black;
+  text-align: right;
+}
+h2:hover {
+  background-color: orange;
+  color: teal;
+}
+footer {
+  font-family: arial;
+  font-size: 12px;
+  color: black;
+  text-align: center;
+  padding: 5px;
+}
